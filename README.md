@@ -18,24 +18,24 @@
     <p>I am a dedicated data analyst with experience transforming raw data into actionable insights. Skilled in Power BI, Tableau, Python, and SQL. Passionate about delivering data-driven decisions for business growth.</p>
 </section>
 
-<section>
-    <h2>Experience</h2>
+<section id="experience">
+  <h2>Experience</h2>
+  <div class="experience-item">
+    <h3>Data Analyst</h3>
+    <p><strong>Company:</strong> DataInsights LLC</p>
+    <p><strong>Location:</strong> New York, USA</p>
+    <p><strong>Date:</strong> Jan 2022 – Dec 2023</p>
+    <p><strong>Description:</strong> Performed data analysis, created dashboards and reports, and provided actionable insights to improve company performance. Collaborated with cross-functional teams to streamline processes and improve decision-making.</p>
+  </div>
 
-    <div class="project">
-        <h3>Data Analyst</h3>
-        <p><strong>Company:</strong> Data Solutions Inc.</p>
-        <p><strong>Location:</strong> New York, USA</p>
-        <p><strong>Date:</strong> January 2022 – December 2023</p>
-        <p>Developed dashboards and automated reporting systems using Power BI and Tableau. Improved analytical workflows and delivered actionable insights for strategic decision-making.</p>
-    </div>
+  <div class="experience-item">
+    <h3>Junior Data Analyst</h3>
+    <p><strong>Company:</strong> BrightData Solutions</p>
+    <p><strong>Location:</strong> London, UK</p>
+    <p><strong>Date:</strong> Mar 2020 – Dec 2021</p>
+    <p><strong>Description:</strong> Conducted data cleaning and visualization projects, supported senior analysts in reporting, and contributed to data-driven business strategies using Excel and Power BI.</p>
+  </div>
 
-    <div class="project">
-        <h3>Junior Data Analyst</h3>
-        <p><strong>Company:</strong> Global Insights Ltd.</p>
-        <p><strong>Location:</strong> Toronto, Canada</p>
-        <p><strong>Date:</strong> January 2021 – December 2021</p>
-        <p>Conducted market research and created data visualization reports for international clients, enhancing decision-making processes and strategy planning.</p>
-    </div>
 </section>
 
 <section>
